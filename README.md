@@ -1,6 +1,6 @@
 # NavPractice
 
-A new Flutter project.
+A new Flutter project. This was to test the bottom navigation bar and persistant navigation inside the application. Each tab should have its own navigation stack and persist across tabs. Also, new tab items should be able to show if the user is "logged in".
 
 ## Getting Started
 
